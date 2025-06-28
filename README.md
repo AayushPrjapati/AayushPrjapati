@@ -36,8 +36,27 @@ A smart healthcare web platform that combines AI-powered diagnosis, lifestyle to
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Aayush%20Prajapati-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-prajapati-481126218/)](https://www.linkedin.com/in/aayush-prajapati-481126218/)
-[![Twitter/X](https://img.shields.io/badge/-@AayushPraj11173-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/AayushPraj11173)](https://x.com/AayushPraj11173)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aayush-prajapati-481126218/" style="text-decoration: none; margin-right: 20px;">
+    <img src="https://img.icons8.com/fluency/28/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/AayushPraj11173" style="text-decoration: none; margin-right: 20px;">
+    <img src="https://img.icons8.com/ios-filled/28/1DA1F2/twitterx.png" alt="Twitter X"/>
+  </a>
+  <a href="https://github.com/AayushPrjapati" style="text-decoration: none; margin-right: 20px;">
+    <img src="https://img.icons8.com/ios-glyphs/28/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="mailto:prajapati.ayush501@gmail.com" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/28/gmail-new.png" alt="Email"/>
+  </a>
+</p>
+
+
+
+
+
+
 
 ---
 
