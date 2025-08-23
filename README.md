@@ -14,7 +14,7 @@ I'm an undergraduate Computer Science & Engineering student with a keen interest
 
 ## 🌟 Featured Project
 
-### [InsightCare](#)
+### [InsightCare](https://github.com/AayushPrjapati/InsightCare)
 A smart healthcare web platform that combines AI-powered diagnosis, lifestyle tools, and 24x7 consultation services.
 
 **Key Features:**
