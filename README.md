@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Aayush Prjapati!
+# 👋 Hi there, I’m Aayush Prajapati!
 
 🎓 **Undergraduate CSE Student**  
 🧠 **Aspiring AI/ML Enthusiast**  
