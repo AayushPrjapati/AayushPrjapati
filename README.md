@@ -2,7 +2,7 @@
 
 🎓 **Undergraduate CSE Student**  
 🧠 **Aspiring AI/ML Enthusiast**  
-💻 **Languages:** C++, Python
+💻 **Languages:** C++, Python, React, JavaScript
 
 ---
 
