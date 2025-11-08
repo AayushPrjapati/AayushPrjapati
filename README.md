@@ -29,8 +29,8 @@ A smart healthcare web platform that combines AI-powered diagnosis, lifestyle to
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** C++, Python
-- **Tech Interests:** AI/ML, smart web platforms, healthcare technology
+- **Languages/Tech Stacks:** React,Node.js,Express,MongoDB,Tailwind CSS,Firebase
+- **Tech Interests:** AI/ML, Smart Web platforms, Healthcare Technology
 
 ---
 
