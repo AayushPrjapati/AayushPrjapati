@@ -51,7 +51,7 @@
 - Compared Logistic Regression, Random Forest & XGBoost with class imbalance handling
 - Evaluated using ROC-AUC, precision & recall; visualized feature importance & confusion matrix
 
-### 🏥 [InsightCare](https://github.com/AayushPrjapati/InsightCare)
+### 🏥 [InsightCare](https://github.com/AayushPrjapati/InsightCare_2.0/)
 > React · Node.js · Firebase · MongoDB · Tailwind CSS
 
 - Smart healthcare platform with AI-powered disease prediction (Cancer, Diabetes, Parkinson's)
