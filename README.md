@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=🤖+Building+AI+Agents+%26+ML+Pipelines;📊+Turning+Raw+Data+into+Real+Insights;🎓+B.Tech+CSE+%40+IITRAM+%7C+CGPA+8.65;⚡+Always+Learning.+Always+Building." />
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/prajapati-aayush">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -13,8 +12,11 @@
   <a href="mailto:prajapati.ayush501@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://aayushprjapati.github.io">
+  <a href="https://aayushprjapati.github.io/my-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+  <a href="https://aayushprjapati.github.io">
+    <img src="https://img.shields.io/badge/Project%20Vault-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=AayushPrjapati&label=Profile+Views&color=00C9FF&style=for-the-badge"/>
 </p>
