@@ -25,11 +25,9 @@
 
 ## 🧠 About Me
 
-🤖 **AI & Data Science Enthusiast** | 🎓 B.Tech CSE @ IITRAM, Ahmedabad (CGPA: **8.65**)  
-🔭 Currently working on: **AI Lead Intelligence Agent** & **Customer Churn Prediction**  
+🤖 **AI & Data Science Enthusiast** | 🎓 B.Tech CSE @ IITRAM, Ahmedabad   
 📚 Currently learning: **Deep Learning, LLM fine-tuning & Advanced SQL**  
 🌱 Exploring: **Agentic AI workflows, RAG pipelines & MLOps basics**  
-🎯 Goal: Land a **Data Science / GenAI internship** & build things that actually matter  
 🤝 Open to: **Internships · Research collabs · Open source contributions**  
 ⚡ Fun fact: I reduced a 45-min manual task to **under 2 minutes** with an AI agent 🤯  
 ♟️ Chess player | 🎬 Movie buff | 🎮 Keen gamer | 📸 Fond photographer  
