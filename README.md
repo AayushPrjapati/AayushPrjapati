@@ -46,7 +46,6 @@
 - Reduced manual prospect research from **~45 minutes → under 2 minutes** per lead
 - Engineered multi-step prompt chains for consistent, high-quality LLM output
 
----
 
 ### 🏥 [InsightCare - Smarter Healthcare with AI-Powered Insights](https://github.com/AayushPrjapati/InsightCare_2.0/)
 > React · Node.js · Firebase · MongoDB · Tailwind CSS
@@ -55,7 +54,7 @@
 -It combines AI-powered health tools like vitals tracking, a smart chatbot, risk assessment, and mood-based music therapy in one place.
 -From quick insights to video consultations, it delivers a complete, accessible healthcare experience on a single page.
 
----
+
 ### 📉 [Customer Churn Prediction — End to End](https://github.com/AayushPrjapati)
 > Python · Scikit-learn · XGBoost · Pandas · Matplotlib
 
