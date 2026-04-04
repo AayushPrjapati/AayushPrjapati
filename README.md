@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00C9FF,100:92FE9D&height=200&section=header&text=Aayush%20Prajapati&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=fadeIn)
+<p align="center">
+  <img src="./header.svg" alt="Aayush Prajapati" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=🤖+Building+AI+Agents+%26+ML+Pipelines;📊+Turning+Raw+Data+into+Real+Insights;🎓+B.Tech+CSE+%40+IITRAM+%7C+CGPA+8.65;⚡+Always+Learning.+Always+Building." />
 </p>
@@ -110,5 +113,3 @@
 <p align="center">
   <i>"Every great revolution begins with a curious mind. ⚡"</i>
 </p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0d1117&height=120&section=footer&animation=fadeIn)
