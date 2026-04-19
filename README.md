@@ -31,10 +31,10 @@
 🤖 **AI & Data Science Enthusiast** | 🎓 B.Tech CSE @ IITRAM, Ahmedabad   
 📚 Currently learning: **Deep Learning, LLM fine-tuning & Advanced SQL**  
 🌱 Exploring: **Agentic AI workflows, RAG pipelines & MLOps basics**  
+
 🤝 Open to: **Internships · Research collabs · Open source contributions**  
 ⚡ Fun fact: I reduced a 45-min manual task to **under 2 minutes** with an AI agent 🤯  
-♟️ Chess player | 🎬 Movie buff | 🎮 Keen gamer | 📸 Fond photographer  
-💬 Ask me about: **Python · Scikit-learn · Prompt Engineering · n8n**
+♟️ Chess player | 🎬 Movie buff | 🎮 Keen gamer | 📸 Fond photographer 
 
 ---
 
